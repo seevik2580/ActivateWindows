@@ -5,4 +5,7 @@
 ## Author: Seva-Drak'thul
 ## SavedVariables: ActivateWindowsDB
 
+## X-Curse-Project-ID: 1440637
+## X-Wago-ID: j6jmm0NR
+
 core.lua
