@@ -1,0 +1,8 @@
+## Interface: 120000
+## Version: 1.0.0
+## Title: Activate Windows
+## IconAtlas: mechagon-projects
+## Author: Seva-Drak'thul
+## SavedVariables: ActivateWindowsDB
+
+core.lua
